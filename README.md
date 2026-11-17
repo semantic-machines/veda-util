@@ -1,4 +1,4 @@
-# @veda/domain
+# veda-util
 
 Доменные вычисления над моделями `veda-client`: иерархия подразделений и
 иерархия классов. Zero-dependency, ESM, Node 18+.
@@ -7,7 +7,7 @@
 
 ```js
 import { Model } from 'veda-client';
-import { getChief, getChiefDetails, isSubUnitOf, getOrganization } from '@veda/domain';
+import { getChief, getChiefDetails, isSubUnitOf, getOrganization } from 'veda-util';
 
 const appointment = new Model('d:org_position_1');
 

@@ -1,5 +1,5 @@
 /**
- * @veda/domain — public API.
+ * veda-util — public API.
  *
  * Algorithms are pure functions over a NodePort; this module binds them to a
  * Model-like object and returns the original provider objects.

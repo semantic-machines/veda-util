@@ -1,5 +1,5 @@
 {
-  "name": "@veda/domain",
+  "name": "veda-util",
   "version": "0.0.0",
   "description": "Domain computations over veda-client models: organization and class hierarchy",
   "type": "module",
