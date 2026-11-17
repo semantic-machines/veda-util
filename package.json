@@ -1,7 +1,7 @@
 {
   "name": "@veda/domain",
   "version": "0.0.0",
-  "description": "Pure domain computations over Veda object models: organization hierarchy and class hierarchy",
+  "description": "Domain computations over veda-client models: organization and class hierarchy",
   "type": "module",
   "main": "src/index.js",
   "types": "src/index.d.ts",
