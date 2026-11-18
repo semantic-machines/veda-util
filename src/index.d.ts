@@ -19,8 +19,6 @@ export interface DomainOptions {
   load?: boolean;
 }
 
-export declare const VERSION: string;
-
 export declare function getChief(
   model: ModelLike,
   chiefId?: string,

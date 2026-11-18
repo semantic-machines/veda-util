@@ -8,9 +8,11 @@
   "exports": {
     ".": {
       "types": "./src/index.d.ts",
-      "import": "./src/index.js"
+      "import": "./src/index.js",
+      "default": "./src/index.js"
     },
-    "./core": "./src/core/index.js"
+    "./core": "./src/core/index.js",
+    "./package.json": "./package.json"
   },
   "files": [
     "src",
